@@ -18,7 +18,7 @@ This project covers essential array operations with memory management, modular c
 
 ```
 
-arrayadt/
+ArrayADT/
 
 ├── include/
 
