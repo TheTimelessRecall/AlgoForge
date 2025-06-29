@@ -25,4 +25,4 @@ public:
     double average() const;
 };
 
-#endif
+#endif 

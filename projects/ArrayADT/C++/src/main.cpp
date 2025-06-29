@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Array.hpp"
+#include "array.hpp"
 
 using namespace std;
 
@@ -63,12 +63,11 @@ int main() {
                 cout << "Average: " << arr.average() << "\n";
                 break;
             case 11:
-                cout << "Exiting...\n";
+                cout << "Exiting\n";
                 return 0;
             default:
                 cout << "Invalid choice\n";
         }
     }
-
     return 0;
 }
