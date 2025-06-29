@@ -1,0 +1,41 @@
+# Build folders
+/build/
+/bin/
+/out/
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE config files
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.sln
+*.vcxproj*
+
+# OS files
+.DS_Store
+*.swp
+
+# Logs and temp
+*.log
+*.tmp
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
