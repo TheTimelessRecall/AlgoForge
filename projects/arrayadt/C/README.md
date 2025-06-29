@@ -2,7 +2,7 @@
 
 
 
-A dynamic, menu-driven implementation of the \*\*Array Abstract Data Type (ADT)\*\* written in C.  
+A dynamic, menu-driven implementation of the **Array Abstract Data Type (ADT)** written in C.  
 
 This project covers essential array operations with memory management, modular code structure, and full unit testing
 
