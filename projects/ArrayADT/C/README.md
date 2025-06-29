@@ -26,25 +26,23 @@ ArrayADT/
 
 ├── src/
 
-│   └── array.c         
+│   └── array.c 
+    └── main.c          
 
 ├── tests/
 
-│   └── test\_array.c     
-
-├── main.c               
+│   └── test\_array.c                  
 
 └── README.md            
 
 ```
 
 
-
 ---
 
 
 
-## Build \& Run
+## Build & Run
 
 
 
@@ -54,11 +52,11 @@ ArrayADT/
 
 ```bash
 
-gcc -Wall -Wextra -Iinclude -o tests/test\_array tests/test\_array.c src/array.c
+gcc -Wall -Wextra -Iinclude -o tests/test_array tests/test_array.c src/array.c
 
-./tests/test\_array        # Linux/macOS
+./tests/test_array        # Linux/macOS
 
-tests\\test\_array.exe     # Windows CMD
+tests\test_array.exe      # Windows CMD
 
 ```
 
@@ -70,12 +68,11 @@ tests\\test\_array.exe     # Windows CMD
 
 ```bash
 
-gcc -Wall -Wextra -Iinclude -o main main.c src/array.c
+gcc -Wall -Wextra -Iinclude -o main src/main.c src/array.c
 
 ./main                    # Linux/macOS
 
 main.exe                  # Windows CMD
-
 ```
 
 
@@ -138,23 +135,19 @@ All tests passed!
 
 
 
-## License
 
+<p align="center">
+  <strong>TimelessRecall</strong><br>
+  <br>
+  <a href="https://github.com/TheTimelessRecall" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://medium.com/@TimelessRecall" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://x.com/TimelessRecall" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-
-MIT License — free to use, modify, and share.  
-
-
-
----
-
-
-
-## Author
-
-
-
-**TimelessRecall** 
-
-• [GitHub](https://github.com/TheTimelessRecall) • [Medium](https://medium.com/@TimelessRecall) •  [Twitter](https://x.com/TimelessRecall)
 
