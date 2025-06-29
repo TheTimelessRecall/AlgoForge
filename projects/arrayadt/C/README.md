@@ -1,4 +1,4 @@
-\# ArrayADT (C Project)
+# ArrayADT (C Project)
 
 
 
@@ -12,7 +12,7 @@ This project covers essential array operations with memory management, modular c
 
 
 
-\## Directory Structure
+## Directory Structure
 
 
 
@@ -44,11 +44,11 @@ arrayadt/
 
 
 
-\## Build \& Run
+## Build \& Run
 
 
 
-\### Run Tests
+### Run Tests
 
 
 
@@ -64,7 +64,7 @@ tests\\test\_array.exe     # Windows CMD
 
 
 
-\### Run the Menu Program
+### Run the Menu Program
 
 
 
@@ -84,7 +84,7 @@ main.exe                  # Windows CMD
 
 
 
-\## Sample Test Output
+## Sample Test Output
 
 
 
@@ -100,7 +100,7 @@ All tests passed!
 
 
 
-\## Menu Options
+## Menu Options
 
 
 
@@ -138,7 +138,7 @@ All tests passed!
 
 
 
-\## License
+## License
 
 
 
@@ -150,11 +150,11 @@ MIT License — free to use, modify, and share.
 
 
 
-\## Author
+## Author
 
 
 
-\*\*TimelessRecall\*\* 
+**TimelessRecall** 
 
-• \[GitHub](https://github.com/TheTimelessRecall) • \[Medium](https://medium.com/@TimelessRecall) •  \[Twitter](https://x.com/TimelessRecall)
+• [GitHub](https://github.com/TheTimelessRecall) • [Medium](https://medium.com/@TimelessRecall) •  [Twitter](https://x.com/TimelessRecall)
 
