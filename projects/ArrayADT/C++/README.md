@@ -13,7 +13,7 @@ This project covers essential array operations with dynamic memory management, m
 
 ```
 
-ArrayADT/C++/
+ArrayADT/
 
 ├── include/
 
@@ -42,7 +42,9 @@ ArrayADT/C++/
 
 ```bash
 g++ -std=c++17 -Iinclude -o tests/test_array tests/test_array.cpp src/array.cpp
+
 ./tests/test_array        # Linux/macOS
+
 tests\test_array.exe      # Windows CMD
 ```
 
@@ -50,7 +52,9 @@ tests\test_array.exe      # Windows CMD
 
 ```bash
 g++ -std=c++17 -Iinclude -o main src/main.cpp src/array.cpp
+
 ./main                   # Linux/macOS
+
 main.exe                 # Windows CMD
 ```
 
@@ -71,16 +75,27 @@ All tests passed!
 ```
 
 --- MENU ---
+
 1. Display
+
 2. Append
+
 3. Insert
+
 4. Delete
+
 5. Linear Search
+
 6. Binary Search (array must be sorted)
+
 7. Max
+
 8. Min
+
 9. Sum
+
 10. Average
+
 11. Exit
 
 ```
