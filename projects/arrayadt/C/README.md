@@ -108,27 +108,27 @@ All tests passed!
 
 --- MENU ---
 
-1\. Display
+1. Display
 
-2\. Append
+2. Append
 
-3\. Insert
+3. Insert
 
-4\. Delete
+4. Delete
 
-5\. Linear Search
+5. Linear Search
 
-6\. Binary Search (array must be sorted)
+6. Binary Search (array must be sorted)
 
-7\. Max
+7. Max
 
-8\. Min
+8. Min
 
-9\. Sum
+9. Sum
 
-10\. Average
+10. Average
 
-11\. Exit
+11. Exit
 
 ```
 
