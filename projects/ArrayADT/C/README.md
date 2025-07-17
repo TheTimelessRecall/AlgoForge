@@ -26,7 +26,7 @@ ArrayADT/
 │   └── array.c 
 │   └── main.c          
 ├── tests/
-│   └── test\_array.c                  
+│   └── test_array.c                  
 └── README.md            
 
 ```
