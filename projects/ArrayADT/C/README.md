@@ -21,18 +21,12 @@ This project covers essential array operations with memory management, modular c
 ArrayADT/
 
 ├── include/
-
 │   └── array.h        
-
 ├── src/
-
 │   └── array.c 
-    └── main.c          
-
+│   └── main.c          
 ├── tests/
-
 │   └── test\_array.c                  
-
 └── README.md            
 
 ```
@@ -53,9 +47,7 @@ ArrayADT/
 ```bash
 
 gcc -Wall -Wextra -Iinclude -o tests/test_array tests/test_array.c src/array.c
-
 ./tests/test_array        # Linux/macOS
-
 tests\test_array.exe      # Windows CMD
 
 ```
@@ -64,25 +56,18 @@ tests\test_array.exe      # Windows CMD
 
 ### Run the Menu Program
 
-
-
 ```bash
 
 gcc -Wall -Wextra -Iinclude -o main src/main.c src/array.c
-
 ./main                    # Linux/macOS
-
 main.exe                  # Windows CMD
 ```
-
-
 
 ---
 
 
 
 ## Sample Test Output
-
 
 
 ```
@@ -92,7 +77,6 @@ All tests passed!
 ```
 
 
-
 ---
 
 
@@ -100,40 +84,26 @@ All tests passed!
 ## Menu Options
 
 
-
 ```
 
 --- MENU ---
 
 1. Display
-
 2. Append
-
 3. Insert
-
 4. Delete
-
 5. Linear Search
-
 6. Binary Search (array must be sorted)
-
 7. Max
-
 8. Min
-
 9. Sum
-
 10. Average
-
 11. Exit
 
 ```
 
 
-
 ---
-
-
 
 
 <p align="center">
